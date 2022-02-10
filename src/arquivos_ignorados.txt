@@ -1,0 +1,13 @@
+#Arquivos do desktop
+- Programa.exe
+
+#Arquivos de midia
+- *.mp3
+- *.mp4
+- *.avi
+
+#Arquivos temporarios
+- *.tmp
+- *.temp
+
+#Diretorios
